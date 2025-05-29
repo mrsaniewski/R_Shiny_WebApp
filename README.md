@@ -2,6 +2,7 @@
 
 ## General info
 Stock market data reporting application using Shiny package.
+https://mrsaniewski.shinyapps.io/IndiStox/
 
 ## Technologies
 * R 4.0.5
